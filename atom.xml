@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://yoursite.com</id>
+    <id>https://wongbuer.github.io</id>
     <title>王不二的書架</title>
     <subtitle>自是桃李树，何畏不成蹊。</subtitle>
-    <icon>http://yoursite.com/images/favicon.ico</icon>
-    <link href="http://yoursite.com" />
+    <icon>https://wongbuer.github.io/images/favicon.ico</icon>
+    <link href="https://wongbuer.github.io" />
     <author>
       <name>王不二</name>
     </author>
@@ -13,9 +13,9 @@
     <category term="blog" />
     <category term="王不二" />
     <entry>
-        <id>http://yoursite.com/web%E5%89%8D%E7%AB%AF/JavaScript/JavaScript%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%AD%A6%E4%B9%A0/history%E5%AF%B9%E8%B1%A1/</id>
+        <id>https://wongbuer.github.io/web%E5%89%8D%E7%AB%AF/JavaScript/JavaScript%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%AD%A6%E4%B9%A0/history%E5%AF%B9%E8%B1%A1/</id>
         <title>history对象</title>
-        <link rel="alternate" href="http://yoursite.com/web%E5%89%8D%E7%AB%AF/JavaScript/JavaScript%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%AD%A6%E4%B9%A0/history%E5%AF%B9%E8%B1%A1/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/web%E5%89%8D%E7%AB%AF/JavaScript/JavaScript%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%AD%A6%E4%B9%A0/history%E5%AF%B9%E8%B1%A1/"/>
         <content type="html">&lt;h1 id=&#34;history对象&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#history对象&#34;&gt;#&lt;/a&gt; history 对象&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;window 对象提供了一个 history 对象，于浏览器历史记录进行交互。该对象包含用户 (在浏览器窗口中) 访问过的 URL&lt;/p&gt;
@@ -43,13 +43,13 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 </content>
-        <category term="JavaScript" scheme="http://yoursite.com/categories/JavaScript/" />
+        <category term="JavaScript" scheme="https://wongbuer.github.io/categories/JavaScript/" />
         <updated>2024-03-23T04:37:25.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/web%E5%89%8D%E7%AB%AF/vue/04vue%E7%9A%84%E6%8C%87%E4%BB%A4%E4%B8%8E%E8%BF%87%E6%BB%A4%E5%99%A8/</id>
+        <id>https://wongbuer.github.io/web%E5%89%8D%E7%AB%AF/vue/04vue%E7%9A%84%E6%8C%87%E4%BB%A4%E4%B8%8E%E8%BF%87%E6%BB%A4%E5%99%A8/</id>
         <title>vue的指令与过滤器</title>
-        <link rel="alternate" href="http://yoursite.com/web%E5%89%8D%E7%AB%AF/vue/04vue%E7%9A%84%E6%8C%87%E4%BB%A4%E4%B8%8E%E8%BF%87%E6%BB%A4%E5%99%A8/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/web%E5%89%8D%E7%AB%AF/vue/04vue%E7%9A%84%E6%8C%87%E4%BB%A4%E4%B8%8E%E8%BF%87%E6%BB%A4%E5%99%A8/"/>
         <content type="html">&lt;h1 id=&#34;vue的指令与过滤器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vue的指令与过滤器&#34;&gt;#&lt;/a&gt; vue 的指令与过滤器&lt;/h1&gt;
 &lt;h2 id=&#34;指令的概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指令的概念&#34;&gt;#&lt;/a&gt; 指令的概念&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -255,13 +255,13 @@
 &lt;li&gt;从第二个参数开始，才是调用过滤器时传来的 arg1 和 arg2 参数&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="Vue" scheme="http://yoursite.com/categories/Vue/" />
+        <category term="Vue" scheme="https://wongbuer.github.io/categories/Vue/" />
         <updated>2024-03-22T17:23:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/Java/jvm/01%E7%B1%BB%E7%9A%84%E5%8A%A0%E8%BD%BD%E8%BF%87%E7%A8%8B/</id>
+        <id>https://wongbuer.github.io/Java/jvm/01%E7%B1%BB%E7%9A%84%E5%8A%A0%E8%BD%BD%E8%BF%87%E7%A8%8B/</id>
         <title>类的加载过程</title>
-        <link rel="alternate" href="http://yoursite.com/Java/jvm/01%E7%B1%BB%E7%9A%84%E5%8A%A0%E8%BD%BD%E8%BF%87%E7%A8%8B/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/Java/jvm/01%E7%B1%BB%E7%9A%84%E5%8A%A0%E8%BD%BD%E8%BF%87%E7%A8%8B/"/>
         <content type="html">&lt;h1 id=&#34;类的加载过程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#类的加载过程&#34;&gt;#&lt;/a&gt; 类的加载过程&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -366,16 +366,16 @@
 &lt;li&gt;通过 ClassLoader#getSystemClassLoader () 方法可以获取到该类加载器&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="Java" scheme="http://yoursite.com/categories/java-language/" />
-        <category term="Java" scheme="http://yoursite.com/tags/Java/" />
-        <category term="JVM" scheme="http://yoursite.com/tags/JVM/" />
-        <category term="类加载" scheme="http://yoursite.com/tags/%E7%B1%BB%E5%8A%A0%E8%BD%BD/" />
+        <category term="Java" scheme="https://wongbuer.github.io/categories/java-language/" />
+        <category term="Java" scheme="https://wongbuer.github.io/tags/Java/" />
+        <category term="类加载" scheme="https://wongbuer.github.io/tags/%E7%B1%BB%E5%8A%A0%E8%BD%BD/" />
+        <category term="JVM" scheme="https://wongbuer.github.io/tags/JVM/" />
         <updated>2024-03-22T16:39:53.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%AE%9E%E4%B9%A0/%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
+        <id>https://wongbuer.github.io/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%AE%9E%E4%B9%A0/%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
         <title>实习总结</title>
-        <link rel="alternate" href="http://yoursite.com/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%AE%9E%E4%B9%A0/%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%AE%9E%E4%B9%A0/%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
         <content type="html">&lt;h1 id=&#34;实习总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实习总结&#34;&gt;#&lt;/a&gt; 实习总结&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;学号: 202031061501&lt;/p&gt;
@@ -409,15 +409,15 @@
 &lt;p&gt;最后一个问题是 JDK 动态链接和 cglib 动态链接的区别以及原理。这个问题我前几天正好有所涉及，JDK 动态代理和 CGLib 动态代理是两种常用的动态代理实现方式。它们的主要区别在于实现原理和适用场景。JDK 动态代理是基于接口实现的，它通过实现 InvocationHandler 接口创建自己的调用处理器，然后通过为 Proxy 类指定 ClassLoader 对象和一组 interface 来创建动态代理。JDK 动态代理只能为接口创建代理实例，因此对于没有通过接口定义业务方法的类，无法创建动态代理实例。CGLib 动态代理则是通过继承方式实现代理。它是一个基于 ASM 的字节码生成库，允许我们在运行时对字节码进行修改和动态生成。CGLib 通过继承方式实现代理，在子类中采用方法拦截的技术拦截所有父类方法的调用并顺势织入横切逻辑。&lt;/p&gt;
 &lt;p&gt;总的来说，这次模拟面试让我感受到了自己的优势和劣势，也让我对后端开发有了更深的认识和兴趣。我觉得这是一个很有价值的实习，它让我学到了很多知识，也锻炼了我的思维和表达能力。我希望以后能有更多这样的机会，让我不断地进步和成长。&lt;/p&gt;
 </content>
-        <category term="软件工程" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/" />
-        <category term="作业" scheme="http://yoursite.com/tags/%E4%BD%9C%E4%B8%9A/" />
-        <category term="软件工程" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/" />
+        <category term="软件工程" scheme="https://wongbuer.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/" />
+        <category term="作业" scheme="https://wongbuer.github.io/tags/%E4%BD%9C%E4%B8%9A/" />
+        <category term="软件工程" scheme="https://wongbuer.github.io/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/" />
         <updated>2023-08-19T14:21:48.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E9%AB%98%E6%95%B0/%E7%AC%AC%E5%85%AD%E7%AB%A0/</id>
+        <id>https://wongbuer.github.io/%E9%AB%98%E6%95%B0/%E7%AC%AC%E5%85%AD%E7%AB%A0/</id>
         <title>第六章</title>
-        <link rel="alternate" href="http://yoursite.com/%E9%AB%98%E6%95%B0/%E7%AC%AC%E5%85%AD%E7%AB%A0/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E9%AB%98%E6%95%B0/%E7%AC%AC%E5%85%AD%E7%AB%A0/"/>
         <content type="html">&lt;h1 id=&#34;第六章-二重积分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第六章-二重积分&#34;&gt;#&lt;/a&gt; 第六章、二重积分&lt;/h1&gt;
 &lt;h2 id=&#34;知识点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#知识点&#34;&gt;#&lt;/a&gt; 知识点&lt;/h2&gt;
 &lt;h3 id=&#34;二重积分的概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二重积分的概念&#34;&gt;#&lt;/a&gt; 二重积分的概念&lt;/h3&gt;
@@ -491,14 +491,14 @@ M1001 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/
 &lt;h3 id=&#34;与二重积分有关的综合题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#与二重积分有关的综合题&#34;&gt;#&lt;/a&gt; 与二重积分有关的综合题&lt;/h3&gt;
 &lt;h3 id=&#34;与二重积分有关的不等式问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#与二重积分有关的不等式问题&#34;&gt;#&lt;/a&gt; 与二重积分有关的不等式问题&lt;/h3&gt;
 </content>
-        <category term="高等数学" scheme="http://yoursite.com/categories/further-mathematics/" />
-        <category term="高等数学" scheme="http://yoursite.com/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/" />
+        <category term="高等数学" scheme="https://wongbuer.github.io/categories/further-mathematics/" />
+        <category term="高等数学" scheme="https://wongbuer.github.io/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/" />
         <updated>2023-08-17T15:07:36.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%BA%94%E7%AB%A0/</id>
+        <id>https://wongbuer.github.io/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%BA%94%E7%AB%A0/</id>
         <title>第五章</title>
-        <link rel="alternate" href="http://yoursite.com/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%BA%94%E7%AB%A0/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%BA%94%E7%AB%A0/"/>
         <content type="html">&lt;h1 id=&#34;第五章-多元微分学&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五章-多元微分学&#34;&gt;#&lt;/a&gt; 第五章、多元微分学&lt;/h1&gt;
 &lt;h2 id=&#34;知识点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#知识点&#34;&gt;#&lt;/a&gt; 知识点&lt;/h2&gt;
 &lt;h3 id=&#34;重极限-连续-偏导数-全微分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#重极限-连续-偏导数-全微分&#34;&gt;#&lt;/a&gt; 重极限 连续 偏导数 全微分&lt;/h3&gt;
@@ -681,14 +681,14 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mn&gt;3.&lt;/mn&gt;&lt;mtext&gt;比较&lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;3. 比较&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.68333em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;mord cjk_fallback&#34;&gt;比&lt;/span&gt;&lt;span class=&#34;mord cjk_fallback&#34;&gt;较&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="高等数学" scheme="http://yoursite.com/categories/further-mathematics/" />
-        <category term="高等数学" scheme="http://yoursite.com/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/" />
+        <category term="高等数学" scheme="https://wongbuer.github.io/categories/further-mathematics/" />
+        <category term="高等数学" scheme="https://wongbuer.github.io/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/" />
         <updated>2023-08-13T04:40:08.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E9%AB%98%E6%95%B0/%E7%AC%AC%E5%9B%9B%E7%AB%A0/</id>
+        <id>https://wongbuer.github.io/%E9%AB%98%E6%95%B0/%E7%AC%AC%E5%9B%9B%E7%AB%A0/</id>
         <title>第四章</title>
-        <link rel="alternate" href="http://yoursite.com/%E9%AB%98%E6%95%B0/%E7%AC%AC%E5%9B%9B%E7%AB%A0/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E9%AB%98%E6%95%B0/%E7%AC%AC%E5%9B%9B%E7%AB%A0/"/>
         <content type="html">&lt;h1 id=&#34;第四章-微分方程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四章-微分方程&#34;&gt;#&lt;/a&gt; 第四章、微分方程&lt;/h1&gt;
 &lt;h2 id=&#34;知识点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#知识点&#34;&gt;#&lt;/a&gt; 知识点&lt;/h2&gt;
 &lt;h3 id=&#34;常微分方程的基本概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#常微分方程的基本概念&#34;&gt;#&lt;/a&gt; 常微分方程的基本概念&lt;/h3&gt;
@@ -773,14 +773,14 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;h3 id=&#34;综合题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#综合题&#34;&gt;#&lt;/a&gt; 综合题&lt;/h3&gt;
 &lt;h3 id=&#34;应用题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用题&#34;&gt;#&lt;/a&gt; 应用题&lt;/h3&gt;
 </content>
-        <category term="高等数学" scheme="http://yoursite.com/categories/further-mathematics/" />
-        <category term="高等数学" scheme="http://yoursite.com/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/" />
+        <category term="高等数学" scheme="https://wongbuer.github.io/categories/further-mathematics/" />
+        <category term="高等数学" scheme="https://wongbuer.github.io/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/" />
         <updated>2023-08-07T05:58:26.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%B8%89%E7%AB%A0/</id>
+        <id>https://wongbuer.github.io/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%B8%89%E7%AB%A0/</id>
         <title>第三章</title>
-        <link rel="alternate" href="http://yoursite.com/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%B8%89%E7%AB%A0/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%B8%89%E7%AB%A0/"/>
         <content type="html">&lt;h1 id=&#34;第三章-一元函数积分学&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三章-一元函数积分学&#34;&gt;#&lt;/a&gt; 第三章、一元函数积分学&lt;/h1&gt;
 &lt;h2 id=&#34;知识点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#知识点&#34;&gt;#&lt;/a&gt; 知识点&lt;/h2&gt;
 &lt;h3 id=&#34;不定积分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#不定积分&#34;&gt;#&lt;/a&gt; 不定积分&lt;/h3&gt;
@@ -1146,14 +1146,14 @@ M1001 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/
 &lt;h4 id=&#34;几何应用-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#几何应用-2&#34;&gt;#&lt;/a&gt; 几何应用&lt;/h4&gt;
 &lt;h4 id=&#34;物理应用-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#物理应用-2&#34;&gt;#&lt;/a&gt; 物理应用&lt;/h4&gt;
 </content>
-        <category term="高等数学" scheme="http://yoursite.com/categories/further-mathematics/" />
-        <category term="高等数学" scheme="http://yoursite.com/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/" />
+        <category term="高等数学" scheme="https://wongbuer.github.io/categories/further-mathematics/" />
+        <category term="高等数学" scheme="https://wongbuer.github.io/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/" />
         <updated>2023-08-02T05:31:24.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%BA%8C%E7%AB%A0/</id>
+        <id>https://wongbuer.github.io/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%BA%8C%E7%AB%A0/</id>
         <title>第二章</title>
-        <link rel="alternate" href="http://yoursite.com/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%BA%8C%E7%AB%A0/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%BA%8C%E7%AB%A0/"/>
         <content type="html">&lt;h1 id=&#34;第二章-导数与微分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章-导数与微分&#34;&gt;#&lt;/a&gt; 第二章、导数与微分&lt;/h1&gt;
 &lt;h2 id=&#34;知识点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#知识点&#34;&gt;#&lt;/a&gt; 知识点&lt;/h2&gt;
 &lt;h3 id=&#34;导数的概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#导数的概念&#34;&gt;#&lt;/a&gt; 导数的概念&lt;/h3&gt;
@@ -1375,14 +1375,14 @@ M1001 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/
 &lt;li&gt;使用带拉格朗日余项的泰勒公式解题，哪一个点给的信息最多，就以哪一个点建立泰勒公式，之后将其他点带入该方程，建立等量关系&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="高等数学" scheme="http://yoursite.com/categories/further-mathematics/" />
-        <category term="高等数学" scheme="http://yoursite.com/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/" />
+        <category term="高等数学" scheme="https://wongbuer.github.io/categories/further-mathematics/" />
+        <category term="高等数学" scheme="https://wongbuer.github.io/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/" />
         <updated>2023-07-22T07:46:28.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%B8%80%E7%AB%A0/</id>
+        <id>https://wongbuer.github.io/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%B8%80%E7%AB%A0/</id>
         <title>第一章</title>
-        <link rel="alternate" href="http://yoursite.com/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%B8%80%E7%AB%A0/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E9%AB%98%E6%95%B0/%E7%AC%AC%E4%B8%80%E7%AB%A0/"/>
         <content type="html">&lt;h1 id=&#34;第一章-函数-极限-连续&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章-函数-极限-连续&#34;&gt;#&lt;/a&gt; 第一章：函数，极限，连续&lt;/h1&gt;
 &lt;h2 id=&#34;知识点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#知识点&#34;&gt;#&lt;/a&gt; 知识点&lt;/h2&gt;
 &lt;h3 id=&#34;函数&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#函数&#34;&gt;#&lt;/a&gt; 函数&lt;/h3&gt;
@@ -1599,14 +1599,14 @@ M1001 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/
 &lt;h4 id=&#34;讨论连续性及间断点的类型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#讨论连续性及间断点的类型&#34;&gt;#&lt;/a&gt; 讨论连续性及间断点的类型&lt;/h4&gt;
 &lt;h4 id=&#34;介值定理-最值定理及零点定理的证明题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介值定理-最值定理及零点定理的证明题&#34;&gt;#&lt;/a&gt; 介值定理，最值定理及零点定理的证明题&lt;/h4&gt;
 </content>
-        <category term="高等数学" scheme="http://yoursite.com/categories/further-mathematics/" />
-        <category term="高等数学" scheme="http://yoursite.com/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/" />
+        <category term="高等数学" scheme="https://wongbuer.github.io/categories/further-mathematics/" />
+        <category term="高等数学" scheme="https://wongbuer.github.io/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/" />
         <updated>2023-07-14T12:53:12.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/web%E5%89%8D%E7%AB%AF/vue/19%E5%B8%B8%E7%94%A8Composition%20API/</id>
+        <id>https://wongbuer.github.io/web%E5%89%8D%E7%AB%AF/vue/19%E5%B8%B8%E7%94%A8Composition%20API/</id>
         <title>常用Composition API</title>
-        <link rel="alternate" href="http://yoursite.com/web%E5%89%8D%E7%AB%AF/vue/19%E5%B8%B8%E7%94%A8Composition%20API/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/web%E5%89%8D%E7%AB%AF/vue/19%E5%B8%B8%E7%94%A8Composition%20API/"/>
         <content type="html">&lt;h1 id=&#34;常用composition-api&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#常用composition-api&#34;&gt;#&lt;/a&gt; 常用 Composition API&lt;/h1&gt;
 &lt;h2 id=&#34;setup&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#setup&#34;&gt;#&lt;/a&gt; setup&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -1733,13 +1733,13 @@ M1001 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="Vue" scheme="http://yoursite.com/categories/Vue/" />
+        <category term="Vue" scheme="https://wongbuer.github.io/categories/Vue/" />
         <updated>2023-04-30T08:48:20.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper/03Zookeeper%E6%93%8D%E4%BD%9C/</id>
+        <id>https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper/03Zookeeper%E6%93%8D%E4%BD%9C/</id>
         <title>03Zookeeper操作</title>
-        <link rel="alternate" href="http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper/03Zookeeper%E6%93%8D%E4%BD%9C/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper/03Zookeeper%E6%93%8D%E4%BD%9C/"/>
         <content type="html">&lt;h1 id=&#34;zookeeper操作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#zookeeper操作&#34;&gt;#&lt;/a&gt; Zookeeper 操作&lt;/h1&gt;
 &lt;h2 id=&#34;节点类型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#节点类型&#34;&gt;#&lt;/a&gt; 节点类型&lt;/h2&gt;
 &lt;ol&gt;
@@ -1813,13 +1813,13 @@ M1001 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/
 &lt;/ol&gt;
 &lt;h2 id=&#34;服务器动态上下线&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#服务器动态上下线&#34;&gt;#&lt;/a&gt; 服务器动态上下线&lt;/h2&gt;
 </content>
-        <category term="Zookeeper" scheme="http://yoursite.com/categories/zookeeper/" />
+        <category term="Zookeeper" scheme="https://wongbuer.github.io/categories/zookeeper/" />
         <updated>2023-02-14T09:43:58.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper/02Zookeeper%E9%85%8D%E7%BD%AE/</id>
+        <id>https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper/02Zookeeper%E9%85%8D%E7%BD%AE/</id>
         <title>02Zookeeper配置</title>
-        <link rel="alternate" href="http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper/02Zookeeper%E9%85%8D%E7%BD%AE/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper/02Zookeeper%E9%85%8D%E7%BD%AE/"/>
         <content type="html">&lt;h1 id=&#34;zookeeper配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#zookeeper配置&#34;&gt;#&lt;/a&gt; Zookeeper 配置&lt;/h1&gt;
 &lt;h2 id=&#34;配置参数解读&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置参数解读&#34;&gt;#&lt;/a&gt; 配置参数解读&lt;/h2&gt;
 &lt;p&gt;Zookeeper 张的配置文件 zoo.cfg 中参数含义如下 :&lt;/p&gt;
@@ -1966,13 +1966,13 @@ M1001 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/
 &lt;/li&gt;
 &lt;/ol&gt;
 </content>
-        <category term="Zookeeper" scheme="http://yoursite.com/categories/zookeeper/" />
+        <category term="Zookeeper" scheme="https://wongbuer.github.io/categories/zookeeper/" />
         <updated>2023-02-14T08:59:46.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper/01Zookeeper%E5%85%A5%E9%97%A8%E6%A6%82%E8%BF%B0/</id>
+        <id>https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper/01Zookeeper%E5%85%A5%E9%97%A8%E6%A6%82%E8%BF%B0/</id>
         <title>01Zookeeper入门概述</title>
-        <link rel="alternate" href="http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper/01Zookeeper%E5%85%A5%E9%97%A8%E6%A6%82%E8%BF%B0/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper/01Zookeeper%E5%85%A5%E9%97%A8%E6%A6%82%E8%BF%B0/"/>
         <content type="html">&lt;h1 id=&#34;zookeeper入门概述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#zookeeper入门概述&#34;&gt;#&lt;/a&gt; Zookeeper 入门概述&lt;/h1&gt;
 &lt;h2 id=&#34;zookeeper工作机制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#zookeeper工作机制&#34;&gt;#&lt;/a&gt; Zookeeper 工作机制&lt;/h2&gt;
 &lt;p&gt;Zookeeper 从设计模式角度来理解：是一个基于观察者模式设计的分布式服务管理框架，它&lt;mark&gt;负责存储和管理大家都关心的数据&lt;/mark&gt;，然后&lt;mark&gt;接受观察者的注册&lt;/mark&gt;，一旦这些数据的状态发生变化，Zookeeper 就将&lt;mark&gt;负责同志已经在 Zookeeper 上注册的那些观察者&lt;/mark&gt;做出相应的反应.&lt;/p&gt;
@@ -2032,13 +2032,13 @@ M1001 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/
 &lt;p&gt;在 Zookeeper 中记录每台服务器的访问数，让访问数最少的服务器去处理最新的客户端请求&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/Wongbuer/typora/img/202302141314701.png&#34; alt=&#34;image-20230214131427583&#34; /&gt;&lt;/p&gt;
 </content>
-        <category term="Zookeeper" scheme="http://yoursite.com/categories/zookeeper/" />
+        <category term="Zookeeper" scheme="https://wongbuer.github.io/categories/zookeeper/" />
         <updated>2023-02-14T06:06:40.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/Java/jvm/16%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8/</id>
+        <id>https://wongbuer.github.io/Java/jvm/16%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8/</id>
         <title>垃圾回收器</title>
-        <link rel="alternate" href="http://yoursite.com/Java/jvm/16%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/Java/jvm/16%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8/"/>
         <content type="html">&lt;h1 id=&#34;垃圾回收器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#垃圾回收器&#34;&gt;#&lt;/a&gt; 垃圾回收器&lt;/h1&gt;
 &lt;h2 id=&#34;垃圾回收器的分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#垃圾回收器的分类&#34;&gt;#&lt;/a&gt; 垃圾回收器的分类&lt;/h2&gt;
 &lt;ul&gt;
@@ -2453,35 +2453,35 @@ Region 之间是复制算法，但整体上实际可看作是标记 - 压缩算�
 &lt;li&gt;如果想要最小化 GC 的终端或停顿时间，选择 CMS GC&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="Java" scheme="http://yoursite.com/categories/java-language/" />
-        <category term="Java" scheme="http://yoursite.com/tags/Java/" />
-        <category term="JVM" scheme="http://yoursite.com/tags/JVM/" />
-        <category term="Garbage Collection" scheme="http://yoursite.com/tags/Garbage-Collection/" />
+        <category term="Java" scheme="https://wongbuer.github.io/categories/java-language/" />
+        <category term="Java" scheme="https://wongbuer.github.io/tags/Java/" />
+        <category term="JVM" scheme="https://wongbuer.github.io/tags/JVM/" />
+        <category term="Garbage Collection" scheme="https://wongbuer.github.io/tags/Garbage-Collection/" />
         <updated>2023-02-11T01:45:44.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/Nginx/02%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA%E4%B8%8E%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90/</id>
+        <id>https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/Nginx/02%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA%E4%B8%8E%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90/</id>
         <title>02虚拟主机与域名解析</title>
-        <link rel="alternate" href="http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/Nginx/02%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA%E4%B8%8E%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/Nginx/02%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA%E4%B8%8E%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90/"/>
         <content type="html">&lt;h1 id=&#34;虚拟主机与域名解析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#虚拟主机与域名解析&#34;&gt;#&lt;/a&gt; 虚拟主机与域名解析&lt;/h1&gt;
 </content>
-        <category term="Nginx" scheme="http://yoursite.com/categories/Nginx/" />
+        <category term="Nginx" scheme="https://wongbuer.github.io/categories/Nginx/" />
         <updated>2023-02-09T10:23:52.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/Nginx/01Nginx.conf%E6%9C%80%E5%B0%8F%E9%85%8D%E7%BD%AE%E8%A7%A3%E6%9E%90/</id>
+        <id>https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/Nginx/01Nginx.conf%E6%9C%80%E5%B0%8F%E9%85%8D%E7%BD%AE%E8%A7%A3%E6%9E%90/</id>
         <title>01Nginx.conf最小配置解析</title>
-        <link rel="alternate" href="http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/Nginx/01Nginx.conf%E6%9C%80%E5%B0%8F%E9%85%8D%E7%BD%AE%E8%A7%A3%E6%9E%90/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/Nginx/01Nginx.conf%E6%9C%80%E5%B0%8F%E9%85%8D%E7%BD%AE%E8%A7%A3%E6%9E%90/"/>
         <content type="html">&lt;h1 id=&#34;nginx最小配置文件解析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#nginx最小配置文件解析&#34;&gt;#&lt;/a&gt; Nginx 最小配置文件解析&lt;/h1&gt;
 &lt;figure class=&#34;highlight nginx&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 工作进程个数&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;worker_processes&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;events&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# 每个worker可以创建多少个连接&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;worker_connections&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1024&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;http&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# 引入其他配置文件&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;include&lt;/span&gt; mime.types;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# 默认类型 数据流&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;default_type&lt;/span&gt; application/octet-strean;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# 数据零拷贝&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;sendfile&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;on&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;keepalive_timeout&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;65&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# 虚拟主机 vhost&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;section&#34;&gt;server&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;listen&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;80&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;# 域名, 主机名&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;server_name&lt;/span&gt; localhost;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;section&#34;&gt;location&lt;/span&gt; / &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;comment&#34;&gt;# 路径匹配上之后, 从哪个目录查找资源, 相对路径(相对于nginx目录)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;attribute&#34;&gt;root&lt;/span&gt; html;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;attribute&#34;&gt;index&lt;/span&gt; index.html index.htm;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;# 发生服务器内部配置时展现的页面&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;error_page&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;500&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;502&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;503&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;504&lt;/span&gt; /50x.html;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;localtion&lt;/span&gt; = /50x.html &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;attribute&#34;&gt;root&lt;/span&gt; html;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
-        <category term="Nginx" scheme="http://yoursite.com/categories/Nginx/" />
+        <category term="Nginx" scheme="https://wongbuer.github.io/categories/Nginx/" />
         <updated>2023-02-09T10:23:32.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/NoSQL/Redis/new/06Redis%E5%88%86%E7%89%87%E9%9B%86%E7%BE%A4/</id>
+        <id>https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/NoSQL/Redis/new/06Redis%E5%88%86%E7%89%87%E9%9B%86%E7%BE%A4/</id>
         <title>06Redis分片集群</title>
-        <link rel="alternate" href="http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/NoSQL/Redis/new/06Redis%E5%88%86%E7%89%87%E9%9B%86%E7%BE%A4/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/NoSQL/Redis/new/06Redis%E5%88%86%E7%89%87%E9%9B%86%E7%BE%A4/"/>
         <content type="html">&lt;h1 id=&#34;redis分片集群&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#redis分片集群&#34;&gt;#&lt;/a&gt; Redis 分片集群&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;主从和哨兵可以解决高可用，高并发读的问题。但是依然有两个问题没有解决 :&lt;/p&gt;
@@ -2531,13 +2531,13 @@ Region 之间是复制算法，但整体上实际可看作是标记 - 压缩算�
 &lt;/ul&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/Wongbuer/typora/img/202302091538487.png&#34; alt=&#34;image-20230209153825317&#34; /&gt;&lt;/p&gt;
 </content>
-        <category term="Redis" scheme="http://yoursite.com/categories/redis/" />
+        <category term="Redis" scheme="https://wongbuer.github.io/categories/redis/" />
         <updated>2023-02-09T07:38:40.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/NoSQL/Redis/new/05Reis%E5%93%A8%E5%85%B5/</id>
+        <id>https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/NoSQL/Redis/new/05Reis%E5%93%A8%E5%85%B5/</id>
         <title>05Reis哨兵</title>
-        <link rel="alternate" href="http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/NoSQL/Redis/new/05Reis%E5%93%A8%E5%85%B5/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/NoSQL/Redis/new/05Reis%E5%93%A8%E5%85%B5/"/>
         <content type="html">&lt;h1 id=&#34;redis哨兵模式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#redis哨兵模式&#34;&gt;#&lt;/a&gt; Redis 哨兵模式&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Redis 提供了哨兵 (Sentinel) 机制来实现主从集群的自动故障恢复。哨兵的结构和作用如下 :&lt;/p&gt;
@@ -2598,13 +2598,13 @@ Region 之间是复制算法，但整体上实际可看作是标记 - 压缩算�
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;docker run --name sentinel_1 -v /home/wong/data/redis/sentinel.conf:/etc/redis/redis.conf -d redis:latest redis-sentinel /etc/redis/sentinel.conf&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;三个哨兵中有两个认为主节点下线，会判定为客观下线，切换从节点为新的主节点&lt;/p&gt;
 </content>
-        <category term="Redis" scheme="http://yoursite.com/categories/redis/" />
+        <category term="Redis" scheme="https://wongbuer.github.io/categories/redis/" />
         <updated>2023-02-08T15:14:28.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/NoSQL/Redis/new/04Redis%E4%B8%BB%E4%BB%8E/</id>
+        <id>https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/NoSQL/Redis/new/04Redis%E4%B8%BB%E4%BB%8E/</id>
         <title>04Redis主从</title>
-        <link rel="alternate" href="http://yoursite.com/%E4%B8%AD%E9%97%B4%E4%BB%B6/NoSQL/Redis/new/04Redis%E4%B8%BB%E4%BB%8E/"/>
+        <link rel="alternate" href="https://wongbuer.github.io/%E4%B8%AD%E9%97%B4%E4%BB%B6/NoSQL/Redis/new/04Redis%E4%B8%BB%E4%BB%8E/"/>
         <content type="html">&lt;h1 id=&#34;redis主从架构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#redis主从架构&#34;&gt;#&lt;/a&gt; Redis 主从架构&lt;/h1&gt;
 &lt;p&gt;单节点 Redis 的并发能力是有上限的，要进一步提高 Redis 的并发能力，就需要搭建主从集群，实现读写分离&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/Wongbuer/typora/img/202302081732162.png&#34; alt=&#34;image-20230208173243019&#34; /&gt;&lt;/p&gt;
@@ -2673,7 +2673,7 @@ Region 之间是复制算法，但整体上实际可看作是标记 - 压缩算�
 &lt;li&gt;slave 节点断开后又恢复，并且在 repl_baklog 中能找到 offset 时&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="Redis" scheme="http://yoursite.com/categories/redis/" />
+        <category term="Redis" scheme="https://wongbuer.github.io/categories/redis/" />
         <updated>2023-02-08T12:19:48.000Z</updated>
     </entry>
 </feed>
