@@ -267,8 +267,8 @@
             <link>https://wongbuer.github.io/Java/jvm/01%E7%B1%BB%E7%9A%84%E5%8A%A0%E8%BD%BD%E8%BF%87%E7%A8%8B/</link>
             <category term="Java" scheme="https://wongbuer.github.io/categories/java-language/" />
             <category term="Java" scheme="https://wongbuer.github.io/tags/Java/" />
-            <category term="类加载" scheme="https://wongbuer.github.io/tags/%E7%B1%BB%E5%8A%A0%E8%BD%BD/" />
             <category term="JVM" scheme="https://wongbuer.github.io/tags/JVM/" />
+            <category term="类加载" scheme="https://wongbuer.github.io/tags/%E7%B1%BB%E5%8A%A0%E8%BD%BD/" />
             <pubDate>Sat, 23 Mar 2024 00:39:53 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;类的加载过程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#类的加载过程&#34;&gt;#&lt;/a&gt; 类的加载过程&lt;/h1&gt;
 &lt;ol&gt;

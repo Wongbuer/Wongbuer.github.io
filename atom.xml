@@ -368,8 +368,8 @@
 </content>
         <category term="Java" scheme="https://wongbuer.github.io/categories/java-language/" />
         <category term="Java" scheme="https://wongbuer.github.io/tags/Java/" />
-        <category term="类加载" scheme="https://wongbuer.github.io/tags/%E7%B1%BB%E5%8A%A0%E8%BD%BD/" />
         <category term="JVM" scheme="https://wongbuer.github.io/tags/JVM/" />
+        <category term="类加载" scheme="https://wongbuer.github.io/tags/%E7%B1%BB%E5%8A%A0%E8%BD%BD/" />
         <updated>2024-03-22T16:39:53.000Z</updated>
     </entry>
     <entry>
